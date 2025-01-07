@@ -1,12 +1,4 @@
-<html>
 
-<head>
-  
-  <title>Pracentage</title>
-  
-</head>
-<body>
-    <script>
 var hindi=80;
 var english=60;
 var math=50;
@@ -17,6 +9,3 @@ var sanskrit=80;
 
   var percentage = (total/ 500) * 100;
   console.log(percentage);
-</script>
-</body>
-</html>
