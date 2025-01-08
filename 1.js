@@ -1,4 +1,4 @@
-
+//percentage calculate
 var hindi=80;
 var english=60;
 var math=50;
